@@ -12,7 +12,7 @@ This is a fork of [Pluvia](https://github.com/oxters168/Pluvia), a Steam client 
 
 ## How to Use
 
-1. Download the latest release from the [Releases](https://github.com/utkarshdalal/GameNative/releases) page
+1. Download the latest release from the [Releases](https://github.com/slaker222/GameNative-slaker/releases) page
 2. Install the APK on your Android device
 3. Login to your Steam account
 4. Install your game
