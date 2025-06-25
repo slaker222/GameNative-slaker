@@ -4,7 +4,7 @@
 GameNative allows you to play games you own on Steam directly on Android devices.
 
 added universal control instead of gamepad control
-(https://github.com/slaker222/GameNative-slaker/blob/master/Screenshot_2025-06-25-23-40-35-641_app.gamenative.jpg)
+![image](Screenshot_2025-06-25-23-40-35-641_app.gamenative.jpg)
 
 [Playing Stray on Poco F6](https://github.com/user-attachments/assets/1870fd14-7de9-4054-ba92-d3a5c73686b5)
 
